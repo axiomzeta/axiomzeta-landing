@@ -1,20 +1,18 @@
 # Axiom Zeta — Landing Page
 
-The engineering face of the [E.L.L.I.A. Tech Collaboration](https://github.com/E-L-L-I-A-Tech-Collaboration) ecosystem.
+The public face of [Axiom Zeta Innovations](https://github.com/organizations/axiomzeta).
 
 A static landing page — no build step, no dependencies beyond Google Fonts. Deploy anywhere static hosting lives (Vercel, for instance).
 
 ## Files
 
 - `index.html` — page structure: hero, ecosystem grid, commercial products, principles, CTA
-- `styles.css` — the E.L.L.I.A.-complimentary aesthetic: deep cosmic blue (`#05060e`), periwinkle (`#7c8cff`), gold (`#ffd479`)
+- `styles.css` — deep cosmic blue (`#05060e`), periwinkle (`#7c8cff`), gold (`#ffd479`), glass panels, Inter
 - `script.js` — canvas starfield + scroll-reveal animations
 
 ## Aesthetic notes
 
-The palette is drawn directly from the E.L.L.I.A. site's CSS variables so the two properties feel like siblings: same near-black blue ground, same glass panels, same gold accent reserved for the moments that matter (the ζ mark, the hero gradient, the stats).
-
-Where E.L.L.I.A. speaks as a research lab ("Open intelligence. Independent thinking."), Axiom Zeta speaks as the engineering arm: *"Axioms in. Intelligence out."*
+Deep near-black blue ground, glassmorphic panels, gold reserved for the moments that matter — the ζ mark, the hero gradient, the stats. *"Axioms in. Intelligence out."*
 
 ## License
 
