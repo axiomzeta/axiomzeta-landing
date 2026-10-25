@@ -270,3 +270,18 @@ footer a { color: var(--accent); }
   .cards, .cards.two, .principles { grid-template-columns: 1fr; }
   .hero-stats { gap: 1.6rem; }
 }
+
+/* ---------- banner ---------- */
+.banner {
+  max-width: 1120px;
+  margin: 28px auto 0;
+  padding: 0 20px;
+}
+.banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 18px;
+  border: 1px solid rgba(124, 140, 255, 0.35);
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.45), 0 0 60px rgba(80, 70, 200, 0.18);
+}
